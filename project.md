@@ -5,6 +5,9 @@
 * Written on PHP
 * Flat-file database
 
+* Application was deployed on CentOS Linux release 7.6.1810 (Core), ip address: 192.168.1.57
+
+
 * [Jenkinsfile](./Jenkinsfile)
 
 * [Dockerfile](./Dockerfile)
