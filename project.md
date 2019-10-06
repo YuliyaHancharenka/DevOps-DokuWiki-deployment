@@ -16,6 +16,10 @@
 
 ![](./screenshots/jenkins_pipeline.png)
 
+* Jenkins pipeline parameters:
+
+![](./screenshots/jenkins_params.png)
+
 * [Jenkins console output](./jenkins_console_output.md)
  
 * Slack notifications:
