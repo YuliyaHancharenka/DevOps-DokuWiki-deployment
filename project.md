@@ -19,7 +19,7 @@
 
 ![](./screenshots/slack_notifications.png)
 
-* Dockerhub repository:
+* Dockerhub [repository](https://cloud.docker.com/repository/list):
 
 ![](./screenshots/dockerhub.png)
 
