@@ -5,14 +5,24 @@
 * Written on PHP
 * Flat-file database
 
-* Jenkinsfile
+* [Jenkinsfile](./Jenkinsfile)
 
-* Dockerfile
+* [Dockerfile](./Dockerfile)
 
 * Jenkins pipeline:
 
-* Jenkins console output:
+![](./screenshots/jenkins_pipeline.png)
 
+* [Jenkins console output](./jenkins_console_output)
+ 
 * Slack notifications:
 
+![](./screenshots/slack_notifications.png)
 
+* Dockerhub repository:
+
+![](./screenshots/dockerhub.png)
+
+* DokuWiki UI:
+
+![](./screenshots/DokuWiki.png)
